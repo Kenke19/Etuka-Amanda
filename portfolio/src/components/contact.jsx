@@ -7,6 +7,7 @@ import {
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import SendIcon from '@mui/icons-material/Send';
 import { Link as RouterLink } from 'react-router-dom';
+import '../styles/fonts.css';
 
 function Contact() {
   const [state, handleSubmit] = useForm("mpqjovjq");
@@ -41,7 +42,7 @@ function Contact() {
   }
 
   return (
-    <Container maxWidth="md" sx={{ py: 4 }}>
+    <Container maxWidth="md" sx={{ py: 4, fontFamily: 'Poppins, sans-serif' }}>
       <Paper 
         elevation={1} 
         sx={{ 
