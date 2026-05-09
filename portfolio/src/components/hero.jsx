@@ -47,7 +47,7 @@ export default function Hero() {
       </ListItem>
       <Divider component="li" />
       <ListItem disablePadding>
-        <ListItemButton component="a" href="https://www.linkedin.com/in/nkechi-etuka-76561a330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noopener noreferrer">
+        <ListItemButton component="a" href="https://www.linkedin.com/in/amanda-etuka-76561a330?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
           <ListItemIcon>
             <LinkedInIcon sx={{ fontSize: 40, color: 'blue' }} />
           </ListItemIcon>
