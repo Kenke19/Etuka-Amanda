@@ -34,7 +34,7 @@ const style = {
 export default function Hero() {
   return (
     <Container maxWidth="md" className="h-hero" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: '40px', overflow: 'hidden' }}>
-        <p style={{ fontFamily: 'Poppins, sans-serif', fontSize: '14px', lineHeight: '1.8', padding: '40px 5px' }} className="h-hero-text">I build responsive, performance-focused web applications with HTML, React and modern frontend tools. I enjoy turning complex ideas into intuitive user experiences. I am always eager to learn new technologies and collaborate on innovative projects. Let's connect and create something amazing together! 
+        <p style={{ fontFamily: 'Poppins, sans-serif', fontSize: '14px', lineHeight: '1.8', padding: '40px 5px' }} className="h-hero-text">I build responsive, scalable web applications using React, JavaScript, Python, PHP, and modern development tools. I enjoy transforming ideas into real products with clean user experiences, functional backend systems, and practical solutions that solve real problems. <br/> I’m especially interested in startups, AI-driven products, and collaborative projects where I can learn fast, contribute meaningfully, and grow as a developer.
         </p>
     <List sx={style} aria-label="social links">
       <ListItem disablePadding>
