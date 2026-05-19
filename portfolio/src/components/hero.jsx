@@ -69,7 +69,7 @@ export default function Hero() {
       href={cv}
       target="_blank"
       rel="noopener noreferrer"
-      download="Amanda_Etuka-CV.pdf"
+      download="Amanda_Etuka_Resume.pdf"
       style={{ marginTop: '20px', alignItems: 'center', justifyContent: 'center', display: 'flex', alignItems: 'center' }}
       variant="outlined"
       startIcon={<DownloadIcon sx={{ fontSize: 25 }} />}
