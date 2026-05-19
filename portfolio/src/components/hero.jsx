@@ -10,7 +10,7 @@ import ListItemButton from '@mui/material/ListItemButton';
 import Container from '@mui/material/Container';
 import Button from '@mui/material/Button';
 import DownloadIcon from '@mui/icons-material/Download';
-import cv from '../assets/Amanda Etuka- Frontend Developer.pdf';
+import cv from '../assets/Amanda Etuka_Resume.pdf';
 import '../styles/fonts.css';
 
 const style = {
